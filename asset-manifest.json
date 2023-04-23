@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/E-shopify/static/css/main.269211fb.css",
+    "main.js": "/E-shopify/static/js/main.91ac8f99.js",
+    "static/js/787.1fee1fb8.chunk.js": "/E-shopify/static/js/787.1fee1fb8.chunk.js",
+    "static/media/men2.webp": "/E-shopify/static/media/men2.89f96fd3b2810175dcd3.webp",
+    "static/media/men9.jpg": "/E-shopify/static/media/men9.746048da71bee4524522.jpg",
+    "static/media/men4.jpg": "/E-shopify/static/media/men4.3a0b946c6c4ce03fcc74.jpg",
+    "static/media/women6.jpg": "/E-shopify/static/media/women6.344b4d2ee434de6637ce.jpg",
+    "static/media/men6.webp": "/E-shopify/static/media/men6.d7353b01fdcc892e11e8.webp",
+    "static/media/pic1.jpg": "/E-shopify/static/media/pic1.bd5f870557a805f4451f.jpg",
+    "static/media/men1.webp": "/E-shopify/static/media/men1.6d2ad3845bb1aa52d1e8.webp",
+    "static/media/women5.webp": "/E-shopify/static/media/women5.0acfb6b26181259abe5d.webp",
+    "static/media/men5.jpg": "/E-shopify/static/media/men5.c12d5fc4b33572736119.jpg",
+    "static/media/women3.webp": "/E-shopify/static/media/women3.821bd86964c71bbdc0f5.webp",
+    "static/media/women8.webp": "/E-shopify/static/media/women8.bd5f00d03a1d2777b29a.webp",
+    "index.html": "/E-shopify/index.html",
+    "main.269211fb.css.map": "/E-shopify/static/css/main.269211fb.css.map",
+    "main.91ac8f99.js.map": "/E-shopify/static/js/main.91ac8f99.js.map",
+    "787.1fee1fb8.chunk.js.map": "/E-shopify/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269211fb.css",
+    "static/js/main.91ac8f99.js"
+  ]
+}
